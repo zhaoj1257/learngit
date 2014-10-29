@@ -1,5 +1,9 @@
 git git;
 add pp;
 add git;
+<<<<<<< HEAD
 add a new branch;
 add a new master;
+=======
+add a new ddv;
+>>>>>>> dev
